@@ -1,0 +1,15 @@
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\bin\Debug\net6.0\Lab1NET.exe
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\bin\Debug\net6.0\Lab1NET.deps.json
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\bin\Debug\net6.0\Lab1NET.runtimeconfig.json
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\bin\Debug\net6.0\Lab1NET.dll
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\bin\Debug\net6.0\Lab1NET.pdb
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.csproj.AssemblyReference.cache
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.AssemblyInfoInputs.cache
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.AssemblyInfo.cs
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.csproj.CoreCompileInputs.cache
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.dll
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\refint\Lab1NET.dll
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.pdb
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\Lab1NET.genruntimeconfig.cache
+C:\Users\Jimbo\Desktop\Lab1NET\Lab1NET\obj\Debug\net6.0\ref\Lab1NET.dll
